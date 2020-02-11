@@ -1,0 +1,1276 @@
+Uri: http://magnetoformatura.smartfactory.it/
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\index.html
+Content Type: text/html
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30280391-0-Crimping.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30280391-0-Crimping.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/32486316-0-IMG-4596.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\32486316-0-IMG-4596.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30280396-0-Welding.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30280396-0-Welding.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30280406-0-taglio.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30280406-0-taglio.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30279471-0-griglia-superficie-m.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30279471-0-griglia-superficie-m.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/t/422a9bcc/53723172/1527710476-30279471-ghost-griglia-superficie-m.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\53723172\1527710476-30279471-ghost-griglia-superficie-m.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30287886-0-2.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30287886-0-2.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/t/422a9bcc/53723172/1527710477-30287886-ghost-2.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\53723172\1527710477-30287886-ghost-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/a/1488288753_select-arrow-drop-down.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\a\1488288753_select-arrow-drop-down.png
+Content Type: image/png
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30285356-0-fast-forward.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30285356-0-fast-forward.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30281061-0-electric-wave-dance-.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30281061-0-electric-wave-dance-.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30285486-0-navigate-up-icon.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30285486-0-navigate-up-icon.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/f/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\f\css.css
+Content Type: text/css
+
+Uri: http://c.fastcdn.co/f/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\f\css-1.css
+Content Type: text/css
+
+Uri: http://c.fastcdn.co/f/css?family=Roboto:400,100,300,100italic,300italic,400italic,500,500italic,700,700italic,900,900italic
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\f\css-2.css
+Content Type: text/css
+
+Uri: http://c.fastcdn.co/f/css?family=PT+Sans:400,700,400italic,700italic
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\f\css-3.css
+Content Type: text/css
+
+Uri: http://c.fastcdn.co/a/87dd637f100fd10a3ea9bf7995555113815030ca/031a761e2b05d2bed213fd1f07412755.css
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\a\87dd637f100fd10a3ea9bf7995555113815030ca\031a761e2b05d2bed213fd1f07412755.css
+Content Type: text/css
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30474726-0-Link2.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30474726-0-Link2.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/a/87dd637f100fd10a3ea9bf7995555113815030ca/67e275b8bd45c7f922273ae07065b16f.js
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\a\87dd637f100fd10a3ea9bf7995555113815030ca\67e275b8bd45c7f922273ae07065b16f.js
+Content Type: text/javascript
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30278746-0-S.F.-Logo2-Alta.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30278746-0-S.F.-Logo2-Alta.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/a1ab1db8/5591733-0-Rectangle-32.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\a1ab1db8\5591733-0-Rectangle-32.png
+Content Type: image/png
+
+Uri: http://d3mwhxgzltpnyp.cloudfront.net/local-storage/index.html
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\local-storage\index.html
+Content Type: text/html
+
+Uri: http://anthill.instapage.com/projects/56c2f3d796773d0a7e96a536/events/visit?api_key=02ecfb6273b0a0999cdad7f91ebbd5b7c8e50a87b8f90a457db37a4bc0c3bf29c33f9f0d00e564e18ef5ec820e28fabac0abe51f354e66843c5bc4a0e0fc77e541b849401780f4af7e6a92d69bc1ba405c3769b0d5392515fe599af748242a3c93219196c088bc00389f07a3f0bcff55c3e18140b5123131318e69fee451305400686a65e3434f31b982d6bce426bdf3&data=eyJvd25lcl9pZCI6MjUyNDM0NywiY3VzdG9tZXJfaWQiOjI4NDc2NzIsInVzZXJfaWQiOjI1MjQzNDcsInBhZ2VfaWQiOjk4ODA5NjYsInB1Ymxpc2hlZF92ZXJzaW9uIjoyNCwicXVhbnRpdHkiOjEsInN0YXRpY19wYWdlIjpmYWxzZSwidmFyaWF0aW9uX25hbWUiOiJBIiwidmFyaWF0aW9uX2lkIjoxLCJsaW5rZWRfdmFyaWF0aW9uX2lkIjoyLCJpbml0aWFsX3Jlc3BvbnNpdmVfbW9kZSI6bnVsbCwidmlzaXRvcl9pcCI6IjM1LjIyNC44OS4xMzUiLCJ1c2VyYWdlbnQiOiIiLCJnZW5lcmF0aW9uX3RpbWUiOjcxfQ==
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\projects\56c2f3d796773d0a7e96a536\events\visit.bin
+Content Type: application/octet-stream
+
+Uri: http://magnetoformatura.smartfactory.it/crimpatura
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\crimpatura.html
+Content Type: text/html
+
+Uri: http://magnetoformatura.smartfactory.it/formatura
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\formatura.html
+Content Type: text/html
+
+Uri: http://magnetoformatura.smartfactory.it/saldatura
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\saldatura.html
+Content Type: text/html
+
+Uri: http://magnetoformatura.smartfactory.it/taglio
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\taglio.html
+Content Type: text/html
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30326561-0-211722x.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30326561-0-211722x.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30326566-0-21206.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30326566-0-21206.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30326571-0-211752x.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30326571-0-211752x.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30326581-0-211832x.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30326581-0-211832x.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/t/422a9bcc/714828dd/1527710216-30279471-ghost-griglia-superficie-m.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\714828dd\1527710216-30279471-ghost-griglia-superficie-m.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/t/422a9bcc/714828dd/1527710217-30287886-ghost-2.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\714828dd\1527710217-30287886-ghost-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://anthill.instapage.com/projects/56c2f3d796773d0a7e96a536/events/visit?api_key=abdd13c42017c83c9e8cc59b0d5d5c9a0234ae39612e581ea1b0f87e086667ba15951ffde20b0c2ebae29314a6e4bcccb7201fb9f740ce90e3c515aab452870cdd5d8ede65762ae1d431efeeb7d0fda4847e14bb339d8eafb948b8290070bdea9b8e3a438f60d9dfe72814f8170419312be3074b508b691022c6213f3096dc0d619048ed74a8e6233c0720cbb42012e0&data=eyJvd25lcl9pZCI6MjUyNDM0NywiY3VzdG9tZXJfaWQiOjI4NDc2NzIsInVzZXJfaWQiOjI1MjQzNDcsInBhZ2VfaWQiOjk4OTUyNTYsInB1Ymxpc2hlZF92ZXJzaW9uIjoxMCwicXVhbnRpdHkiOjEsInN0YXRpY19wYWdlIjpmYWxzZSwidmFyaWF0aW9uX25hbWUiOiJBIiwidmFyaWF0aW9uX2lkIjoxLCJsaW5rZWRfdmFyaWF0aW9uX2lkIjoyLCJpbml0aWFsX3Jlc3BvbnNpdmVfbW9kZSI6bnVsbCwidmlzaXRvcl9pcCI6IjEwNC4xOTcuMTg3LjUzIiwidXNlcmFnZW50IjoiIiwiZ2VuZXJhdGlvbl90aW1lIjo0N30=
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\projects\56c2f3d796773d0a7e96a536\events\visit-1.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/t/422a9bcc/714828dd/1527710220-30278746-199x60-S.F.-Logo2-Alta.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\714828dd\1527710220-30278746-199x60-S.F.-Logo2-Alta.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/t/422a9bcc/714828dd/1527710223-30285356-34x28x34x34x0x3-fast-forward.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\714828dd\1527710223-30285356-34x28x34x34x0x3-fast-forward.png
+Content Type: image/png
+
+Uri: http://c.fastcdn.co/t/422a9bcc/714828dd/1527710221-30326731-358x471x358x502x0x0-21214.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\714828dd\1527710221-30326731-358x471x358x502x0x0-21214.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/t/422a9bcc/714828dd/1527710222-30326581-303x492x358x502x29x6-211832x.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\714828dd\1527710222-30326581-303x492x358x502x29x6-211832x.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/t/422a9bcc/714828dd/1527710219-30285356-98x98-fast-forward.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\714828dd\1527710219-30285356-98x98-fast-forward.png
+Content Type: image/png
+
+Uri: http://c.fastcdn.co/t/422a9bcc/714828dd/1527710218-30287886-405x467-2.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\714828dd\1527710218-30287886-405x467-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30324721-0-212052x.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30324721-0-212052x.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30324726-0-211692x.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30324726-0-211692x.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/32486281-0-IMG-4605.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\32486281-0-IMG-4605.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/32486341-0-IMG-4595.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\32486341-0-IMG-4595.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/32486266-0-IMG-4582.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\32486266-0-IMG-4582.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/32486326-0-IMG-4611.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\32486326-0-IMG-4611.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/32486336-0-IMG-4607.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\32486336-0-IMG-4607.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/32486351-0-IMG-4586.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\32486351-0-IMG-4586.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/t/422a9bcc/2c0d7257/1527710286-30287886-ghost-2.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\2c0d7257\1527710286-30287886-ghost-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30322536-0-Wave-formation-in-a-.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30322536-0-Wave-formation-in-a-.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30322296-0-sealing-plastic-film.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30322296-0-sealing-plastic-film.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30322311-0-alu-fe.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30322311-0-alu-fe.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/u/422a9bcc/30322306-0-alu-cu.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\u\422a9bcc\30322306-0-alu-cu.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/t/422a9bcc/794be7df/1527710401-30279471-ghost-griglia-superficie-m.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\794be7df\1527710401-30279471-ghost-griglia-superficie-m.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/t/422a9bcc/794be7df/1527710401-30287886-ghost-2.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\794be7df\1527710401-30287886-ghost-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://anthill.instapage.com/projects/56c2f3d796773d0a7e96a536/events/visit?api_key=193e819d7f242fb35e0190a17a1d2498e7164e1159aea9ea4fb9044c74b3a606251453e05eb817e35435a68295c1e8463e008cfe41ff89548c2cecb879783c0fbb567e42badf1ce8d1e999a456ea8a25723c3c382751a2ad1842b2516ff5c9241fd0da5d6464a3e08da3e7d2a77641b45a574f7e20c9fe19b06750e9cb73c4ebc70882e45a101ba4bbcc85267c2d52bc&data=eyJvd25lcl9pZCI6MjUyNDM0NywiY3VzdG9tZXJfaWQiOjI4NDc2NzIsInVzZXJfaWQiOjI1MjQzNDcsInBhZ2VfaWQiOjk4OTM4MjYsInB1Ymxpc2hlZF92ZXJzaW9uIjoxMiwicXVhbnRpdHkiOjEsInN0YXRpY19wYWdlIjpmYWxzZSwidmFyaWF0aW9uX25hbWUiOiJBIiwidmFyaWF0aW9uX2lkIjoxLCJsaW5rZWRfdmFyaWF0aW9uX2lkIjoyLCJpbml0aWFsX3Jlc3BvbnNpdmVfbW9kZSI6bnVsbCwidmlzaXRvcl9pcCI6IjM1LjIyNC44OS4xMzUiLCJ1c2VyYWdlbnQiOiIiLCJnZW5lcmF0aW9uX3RpbWUiOjU2fQ==
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\projects\56c2f3d796773d0a7e96a536\events\visit-3.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/t/422a9bcc/794be7df/1527710406-30278746-199x60-S.F.-Logo2-Alta.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\794be7df\1527710406-30278746-199x60-S.F.-Logo2-Alta.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/t/422a9bcc/794be7df/1527710404-5591733-231x231-Rectangle-32.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\794be7df\1527710404-5591733-231x231-Rectangle-32.png
+Content Type: image/png
+
+Uri: http://c.fastcdn.co/t/422a9bcc/794be7df/1527710407-30285356-34x28x34x34x0x3-fast-forward.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\794be7df\1527710407-30285356-34x28x34x34x0x3-fast-forward.png
+Content Type: image/png
+
+Uri: http://c.fastcdn.co/t/422a9bcc/794be7df/1527710406-30322536-358x440x440x440x82x0-Wave-formation-in-a-.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\794be7df\1527710406-30322536-358x440x440x440x82x0-Wave-formation-in-a-.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/t/422a9bcc/794be7df/1527710407-30285486-50x41x50x50x0x5-navigate-up-icon.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\794be7df\1527710407-30285486-50x41x50x50x0x5-navigate-up-icon.png
+Content Type: image/png
+
+Uri: http://c.fastcdn.co/t/422a9bcc/794be7df/1527710405-30285356-98x98-fast-forward.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\794be7df\1527710405-30285356-98x98-fast-forward.png
+Content Type: image/png
+
+Uri: http://c.fastcdn.co/t/422a9bcc/794be7df/1527710403-30287886-405x467-2.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\794be7df\1527710403-30287886-405x467-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/t/422a9bcc/397c6660/1527710232-30279471-ghost-griglia-superficie-m.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\397c6660\1527710232-30279471-ghost-griglia-superficie-m.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/t/422a9bcc/397c6660/1527710233-30287886-ghost-2.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\397c6660\1527710233-30287886-ghost-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://anthill.instapage.com/projects/56c2f3d796773d0a7e96a536/events/visit?api_key=a07981dec880d06c49115b41a339e629cc5dee4ddd0ee6e7a93511e8fc2bc8f6b429ccf351dd53c2621c50a17a3eaa785c888671a141e89e592bfcefedca50b267e87509b2bcfff5f2cde63970a5233af0ecbff4a52dfd73d4ec5b695410469d1191314e16ae06622d35cfc8b1da358f3a8dbe36ce38f19aee3c2b8d7ca21d91d04dd8f4077b1bfd68411e7a78de827c&data=eyJvd25lcl9pZCI6MjUyNDM0NywiY3VzdG9tZXJfaWQiOjI4NDc2NzIsInVzZXJfaWQiOjI1MjQzNDcsInBhZ2VfaWQiOjk4OTU4ODEsInB1Ymxpc2hlZF92ZXJzaW9uIjo5LCJxdWFudGl0eSI6MSwic3RhdGljX3BhZ2UiOmZhbHNlLCJ2YXJpYXRpb25fbmFtZSI6IkEiLCJ2YXJpYXRpb25faWQiOjEsImxpbmtlZF92YXJpYXRpb25faWQiOjIsImluaXRpYWxfcmVzcG9uc2l2ZV9tb2RlIjpudWxsLCJ2aXNpdG9yX2lwIjoiMzUuMjI0Ljg5LjEzNSIsInVzZXJhZ2VudCI6IiIsImdlbmVyYXRpb25fdGltZSI6NDB9
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\projects\56c2f3d796773d0a7e96a536\events\visit-4.bin
+Content Type: application/octet-stream
+
+Uri: http://c.fastcdn.co/t/422a9bcc/397c6660/1527710236-30278746-199x60-S.F.-Logo2-Alta.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\397c6660\1527710236-30278746-199x60-S.F.-Logo2-Alta.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/t/422a9bcc/397c6660/1527710237-30322536-358x440x440x440x82x0-Wave-formation-in-a-.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\397c6660\1527710237-30322536-358x440x440x440x82x0-Wave-formation-in-a-.jpeg
+Content Type: image/jpeg
+
+Uri: http://c.fastcdn.co/t/422a9bcc/397c6660/1527710238-30285356-34x28x34x34x0x3-fast-forward.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\397c6660\1527710238-30285356-34x28x34x34x0x3-fast-forward.png
+Content Type: image/png
+
+Uri: http://c.fastcdn.co/t/422a9bcc/397c6660/1527710235-30285356-98x98-fast-forward.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\397c6660\1527710235-30285356-98x98-fast-forward.png
+Content Type: image/png
+
+Uri: http://c.fastcdn.co/t/422a9bcc/397c6660/1527710234-30287886-405x467-2.jpg
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\t\422a9bcc\397c6660\1527710234-30287886-405x467-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWyV9hmIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWyV9hmIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWyV9hvIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWyV9hvIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWyV9hnIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWyV9hnIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWyV9hoIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWyV9hoIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWyV9hkIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWyV9hkIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWyV9hlIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWyV9hlIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWyV9hrIqM.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWyV9hrIqM.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem6YaGs126MiZpBA-UFUK0Udc1UAw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem6YaGs126MiZpBA-UFUK0Udc1UAw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem6YaGs126MiZpBA-UFUK0ddc1UAw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem6YaGs126MiZpBA-UFUK0ddc1UAw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem6YaGs126MiZpBA-UFUK0Vdc1UAw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem6YaGs126MiZpBA-UFUK0Vdc1UAw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem6YaGs126MiZpBA-UFUK0adc1UAw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem6YaGs126MiZpBA-UFUK0adc1UAw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem6YaGs126MiZpBA-UFUK0Wdc1UAw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem6YaGs126MiZpBA-UFUK0Wdc1UAw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem6YaGs126MiZpBA-UFUK0Xdc1UAw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem6YaGs126MiZpBA-UFUK0Xdc1UAw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem6YaGs126MiZpBA-UFUK0Zdc0.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem6YaGs126MiZpBA-UFUK0Zdc0.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKXGUdhmIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKXGUdhmIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKXGUdhvIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKXGUdhvIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKXGUdhnIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKXGUdhnIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKXGUdhoIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKXGUdhoIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKXGUdhkIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKXGUdhkIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKXGUdhlIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKXGUdhlIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKXGUdhrIqM.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKXGUdhrIqM.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWiUNhmIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWiUNhmIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWiUNhvIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWiUNhvIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWiUNhnIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWiUNhnIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWiUNhoIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWiUNhoIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWiUNhkIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWiUNhkIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWiUNhlIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWiUNhlIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKWiUNhrIqM.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKWiUNhrIqM.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKW-U9hmIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKW-U9hmIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKW-U9hvIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKW-U9hvIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKW-U9hnIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKW-U9hnIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKW-U9hoIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKW-U9hoIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKW-U9hkIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKW-U9hkIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKW-U9hlIqOjjg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKW-U9hlIqOjjg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/memnYaGs126MiZpBA-UFUKW-U9hrIqM.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\memnYaGs126MiZpBA-UFUKW-U9hrIqM.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OVuhpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN_r8OVuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXuhpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN_r8OXuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUehpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN_r8OUehpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXehpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN_r8OXehpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXOhpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN_r8OXOhpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUuhp.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN_r8OUuhp.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFWJ0bbck.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem8YaGs126MiZpBA-UFWJ0bbck.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFUZ0bbck.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem8YaGs126MiZpBA-UFUZ0bbck.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFWZ0bbck.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem8YaGs126MiZpBA-UFWZ0bbck.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVp0bbck.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem8YaGs126MiZpBA-UFVp0bbck.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFWp0bbck.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem8YaGs126MiZpBA-UFWp0bbck.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFW50bbck.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem8YaGs126MiZpBA-UFW50bbck.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0b.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem8YaGs126MiZpBA-UFVZ0b.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhp.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UNirkOUuhp.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN7rgOUuhp.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN8rsOX-hpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN8rsOX-hpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN8rsOVuhpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN8rsOVuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN8rsOXuhpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN8rsOXuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN8rsOUehpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN8rsOUehpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN8rsOXehpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN8rsOXehpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN8rsOXOhpOqc.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN8rsOXOhpOqc.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN8rsOUuhp.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\opensans\v15\mem5YaGs126MiZpBA-UN8rsOUuhp.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejZftVyCN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejZftVyCN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejZftVyLN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejZftVyLN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejZftVyDN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejZftVyDN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejZftVyMN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejZftVyMN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejZftVyBN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejZftVyBN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejZftVyPN4E.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejZftVyPN4E.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCu6KVjbNBYlgoKej75l0mwFg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCu6KVjbNBYlgoKej75l0mwFg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCu6KVjbNBYlgoKej7wl0mwFg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCu6KVjbNBYlgoKej7wl0mwFg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCu6KVjbNBYlgoKej74l0mwFg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCu6KVjbNBYlgoKej74l0mwFg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCu6KVjbNBYlgoKej73l0mwFg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCu6KVjbNBYlgoKej73l0mwFg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCu6KVjbNBYlgoKej76l0mwFg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCu6KVjbNBYlgoKej76l0mwFg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCu6KVjbNBYlgoKej70l0k.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCu6KVjbNBYlgoKej70l0k.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejYHtFyCN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejYHtFyCN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejYHtFyLN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejYHtFyLN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejYHtFyDN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejYHtFyDN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejYHtFyMN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejYHtFyMN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejYHtFyBN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejYHtFyBN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejYHtFyPN4E.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejYHtFyPN4E.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejZPslyCN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejZPslyCN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejZPslyLN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejZPslyLN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejZPslyDN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejZPslyDN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejZPslyMN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejZPslyMN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejZPslyBN4Ffgg.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejZPslyBN4Ffgg.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCp6KVjbNBYlgoKejZPslyPN4E.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCp6KVjbNBYlgoKejZPslyPN4E.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoC1CzjvWyNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoC1CzjvWyNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoC1CzjtGyNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoC1CzjtGyNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoC1CzjvGyNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoC1CzjvGyNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoC1Czjs2yNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoC1Czjs2yNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoC1CzjvmyNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoC1CzjvmyNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoC1CzjsGyN.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoC1CzjsGyN.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCs6KVjbNBYlgoKcg72j00.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCs6KVjbNBYlgoKcg72j00.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCs6KVjbNBYlgoKew72j00.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCs6KVjbNBYlgoKew72j00.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCs6KVjbNBYlgoKcw72j00.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCs6KVjbNBYlgoKcw72j00.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCs6KVjbNBYlgoKfA72j00.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCs6KVjbNBYlgoKfA72j00.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCs6KVjbNBYlgoKcQ72j00.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCs6KVjbNBYlgoKcQ72j00.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCs6KVjbNBYlgoKfw72.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCs6KVjbNBYlgoKfw72.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoCjC3jvWyNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoCjC3jvWyNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoCjC3jtGyNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoCjC3jtGyNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoCjC3jvGyNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoCjC3jvGyNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoCjC3js2yNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoCjC3js2yNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoCjC3jvmyNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoCjC3jvmyNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoCjC3jsGyN.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoCjC3jsGyN.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoCxCvjvWyNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoCxCvjvWyNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoCxCvjtGyNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoCxCvjtGyNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoCxCvjvGyNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoCxCvjvGyNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoCxCvjs2yNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoCxCvjs2yNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoCxCvjvmyNL4U.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoCxCvjvmyNL4U.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v11/4iCv6KVjbNBYlgoCxCvjsGyN.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ubuntu\v11\4iCv6KVjbNBYlgoCxCvjsGyN.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOiCnqEu92Fr1Mu51QrEz0dL_nz.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOiCnqEu92Fr1Mu51QrEz0dL_nz.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOiCnqEu92Fr1Mu51QrEzQdL_nz.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOiCnqEu92Fr1Mu51QrEzQdL_nz.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOiCnqEu92Fr1Mu51QrEzwdL_nz.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOiCnqEu92Fr1Mu51QrEzwdL_nz.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOiCnqEu92Fr1Mu51QrEzMdL_nz.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOiCnqEu92Fr1Mu51QrEzMdL_nz.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOiCnqEu92Fr1Mu51QrEz8dL_nz.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOiCnqEu92Fr1Mu51QrEz8dL_nz.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOiCnqEu92Fr1Mu51QrEz4dL_nz.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOiCnqEu92Fr1Mu51QrEz4dL_nz.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xIIzI.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1Mu51xIIzI.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TLBCc3CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TLBCc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TLBCc-CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TLBCc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TLBCc2CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TLBCc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TLBCc5CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TLBCc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TLBCc1CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TLBCc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxIIzI.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOkCnqEu92Fr1MmgVxIIzI.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOmCnqEu92Fr1Mu72xKOzY.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOmCnqEu92Fr1Mu4mxK.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\roboto\v18\KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizYRExUiTo99u79D0e0ysmIEDQ.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizYRExUiTo99u79D0e0ysmIEDQ.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizYRExUiTo99u79D0e0w8mIEDQ.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizYRExUiTo99u79D0e0w8mIEDQ.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizYRExUiTo99u79D0e0ycmIEDQ.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizYRExUiTo99u79D0e0ycmIEDQ.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizYRExUiTo99u79D0e0x8mI.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizYRExUiTo99u79D0e0x8mI.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizdRExUiTo99u79D0e8fOydIhUdwzM.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizdRExUiTo99u79D0e8fOydIhUdwzM.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizdRExUiTo99u79D0e8fOydKxUdwzM.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizdRExUiTo99u79D0e8fOydKxUdwzM.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizdRExUiTo99u79D0e8fOydIRUdwzM.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizdRExUiTo99u79D0e8fOydIRUdwzM.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizdRExUiTo99u79D0e8fOydLxUd.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizdRExUiTo99u79D0e8fOydLxUd.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizaRExUiTo99u79D0-ExdGM.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizaRExUiTo99u79D0-ExdGM.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizaRExUiTo99u79D0aExdGM.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizaRExUiTo99u79D0aExdGM.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizaRExUiTo99u79D0yExdGM.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizaRExUiTo99u79D0yExdGM.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizaRExUiTo99u79D0KExQ.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizaRExUiTo99u79D0KExQ.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizfRExUiTo99u79B_mh0OOtLQ0Z.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizfRExUiTo99u79B_mh0OOtLQ0Z.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizfRExUiTo99u79B_mh0OqtLQ0Z.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizfRExUiTo99u79B_mh0OqtLQ0Z.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizfRExUiTo99u79B_mh0OCtLQ0Z.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizfRExUiTo99u79B_mh0OCtLQ0Z.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/s/ptsans/v9/jizfRExUiTo99u79B_mh0O6tLQ.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\s\ptsans\v9\jizfRExUiTo99u79B_mh0O6tLQ.woff2
+Content Type: font/woff2
+
+Uri: http://storage.googleapis.com/instapage-app-assets/font/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\font\fontawesome-webfont.eot
+Content Type: binary/octet-stream
+
+Uri: http://storage.googleapis.com/instapage-app-assets/font/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\font\fontawesome-webfont-1.eot
+Content Type: binary/octet-stream
+
+Uri: http://storage.googleapis.com/instapage-app-assets/font/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\font\fontawesome-webfont.woff2
+Content Type: binary/octet-stream
+
+Uri: http://storage.googleapis.com/instapage-app-assets/font/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\font\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://storage.googleapis.com/instapage-app-assets/font/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\font\fontawesome-webfont.ttf
+Content Type: binary/octet-stream
+
+Uri: http://storage.googleapis.com/instapage-app-assets/font/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\font\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/builder2/select-arrow-drop-down.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\builder2\select-arrow-drop-down.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/builder2/errorbullet.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\builder2\errorbullet.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/builder2/erroricon.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\builder2\erroricon.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/ip2/btns_builder/forms/delete2.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\ip2\btns_builder\forms\delete2.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/builder2/share-this-twitter.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\builder2\share-this-twitter.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/builder2/share-this-twitter-flat.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\builder2\share-this-twitter-flat.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/builder2/share-this-twitter-button.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\builder2\share-this-twitter-button.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/ip2/btns_builder/forms/inputdrag2.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\ip2\btns_builder\forms\inputdrag2.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/site/highlight_styles.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\site\highlight_styles.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/ip2/btns_builder/testimonial/style1.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\ip2\btns_builder\testimonial\style1.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/ip2/btns_builder/testimonial/style2.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\ip2\btns_builder\testimonial\style2.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/ip2/btns_builder/testimonial/style3.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\ip2\btns_builder\testimonial\style3.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/ip2/btns_builder/testimonial/style4.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\ip2\btns_builder\testimonial\style4.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/ip2/btns_builder/testimonial/square.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\ip2\btns_builder\testimonial\square.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/ip2/btns_builder/testimonial/roundedsquare.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\ip2\btns_builder\testimonial\roundedsquare.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/img/ip2/btns_builder/testimonial/round.png
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\img\ip2\btns_builder\testimonial\round.png
+Content Type: image/png
+
+Uri: http://storage.googleapis.com/instapage-app-assets/font/bebasneue-webfont.eot
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\font\bebasneue-webfont.eot
+Content Type: binary/octet-stream
+
+Uri: http://storage.googleapis.com/instapage-app-assets/font/bebasneue-webfont.woff2
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\font\bebasneue-webfont.woff2
+Content Type: binary/octet-stream
+
+Uri: http://storage.googleapis.com/instapage-app-assets/font/bebasneue-webfont.woff
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\font\bebasneue-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://storage.googleapis.com/instapage-app-assets/font/bebasneue-webfont.ttf
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\instapage-app-assets\font\bebasneue-webfont.ttf
+Content Type: binary/octet-stream
+
+Uri: http://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\ajax\libs\prototype\1.7.1.0\prototype.js
+Content Type: text/javascript
+
+Uri: http://d3mwhxgzltpnyp.cloudfront.net/local-storage/jstorage.js
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\local-storage\jstorage.js
+Content Type: application/x-javascript
+
+Uri: http://anthill.instapage.com/projects/56c2f3d796773d0a7e96a536/events/visit?api_key=a3173ef8450e36b15ced3b9bacdc13cace69aafccde929737e69bcd10b857b39ba77bc180b07972e068cbc3660d10bb9ef88407b9345e40ee7f029c5cbec5ab2476b8a45aa20e54d4c3970d0b7138d064612654663c8eb880c49acb6985b057b0c3a7ed45dfe25ed493bb1073614ce364b20677377d1d8ffbc70ab209187f911358ad3195c8bad4eae52012332925f16&data=eyJvd25lcl9pZCI6MjUyNDM0NywiY3VzdG9tZXJfaWQiOjI4NDc2NzIsInVzZXJfaWQiOjI1MjQzNDcsInBhZ2VfaWQiOjk4OTQ3NDYsInB1Ymxpc2hlZF92ZXJzaW9uIjoxNCwicXVhbnRpdHkiOjEsInN0YXRpY19wYWdlIjpmYWxzZSwidmFyaWF0aW9uX25hbWUiOiJBIiwidmFyaWF0aW9uX2lkIjoxLCJsaW5rZWRfdmFyaWF0aW9uX2lkIjoyLCJpbml0aWFsX3Jlc3BvbnNpdmVfbW9kZSI6bnVsbCwidmlzaXRvcl9pcCI6IjEwNC4xOTcuMTg3LjUzIiwidXNlcmFnZW50IjoiIiwiZ2VuZXJhdGlvbl90aW1lIjo2OX0=
+File Name: c:\Downloaded Web Sites\magnetoformatura.smartfactory.it\projects\56c2f3d796773d0a7e96a536\events\visit-2.bin
+Content Type: application/octet-stream
+
